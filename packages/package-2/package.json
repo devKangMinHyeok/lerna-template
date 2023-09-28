@@ -1,0 +1,26 @@
+{
+  "name": "package-2",
+  "version": "0.0.0",
+  "description": "> TODO: description",
+  "author": "Kang <rkdalsgur032@unist.ac.kr>",
+  "homepage": "https://github.com/devKangMinHyeok/lerna-template#readme",
+  "license": "ISC",
+  "main": "lib/package-2.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/devKangMinHyeok/lerna-template.git"
+  },
+  "scripts": {
+    "test": "node ./__tests__/package-2.test.js"
+  },
+  "bugs": {
+    "url": "https://github.com/devKangMinHyeok/lerna-template/issues"
+  }
+}
